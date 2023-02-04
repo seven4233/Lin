@@ -6,6 +6,6 @@ function multiply(int n1, int n2)
 }
 int main()
 {
-    printf("Hey");
+    printf("Hey, Little Ross");
     return 0;
 }
